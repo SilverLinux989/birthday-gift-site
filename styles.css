@@ -66,6 +66,10 @@ h1, h2, h3, h4, p {
     background-image: url("images/happy.gif");
 }
 
+#gift-img-beautiful {
+    background-size: 400px 400px;
+}
+
 #gift-img-beautiful:hover {
     background-image: url("images/beautiful.gif");
 }
